@@ -12,7 +12,7 @@ The image used in my card is an illustration (of me!) by Shayenna Telles.
 
 This document uses the FontAwesome package for LaTeX, which works best with pdfLaTeX. This means limited type families are available by default. You could set the document up for XeLaTeX, but the user would need to do additional work to make the FontAwesome library available to XeLaTeX as a font. See [here](https://tex.stackexchange.com/questions/132888/fontawesome-font-not-found) or [here](https://stackoverflow.com/questions/30677698/xelatex-fontawesome).
 
-I use Minion Pro in my work, but Minion Pro is a pain to set up for pdfLaTeX. I did it with the help of some combination of Kieran Healy's [blog post](https://kieranhealy.org/blog/archives/2012/11/10/installing-minion-pro/)  about this and Sebastian Schubert's [FontPro](https://github.com/sebschub/FontPro) scripts.
+I use Minion Pro in my work, but Minion Pro is a pain to set up for pdfLaTeX. I did it with the help of some combination of Kieran Healy's [blog post](https://kieranhealy.org/blog/archives/2012/11/10/installing-minion-pro/)  about this and Sebastian Schubert's [FontPro](https://github.com/sebschub/FontPro) scripts. If you need, swap out the font for something that works for you!
 
 
 # Other Business Card Templates
